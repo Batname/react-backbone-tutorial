@@ -1,0 +1,22 @@
+{
+  "name": "react-backbone-example",
+  "version": "1.0.0",
+  "description": "React-Backbone-Example =========================",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "koa": "^0.19.1",
+    "koa-static": "^1.4.9"
+  }
+}
